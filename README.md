@@ -39,7 +39,6 @@ Go语言圣经 [《The Go Programming Language》](http://gopl.io) 中文版本�
 - https://docs.hundan.org/gopl-zh/
 - https://book.itsfun.top/gopl-zh/ #每夜自动构建
 
-
 **注意，在线预览不是最新版，最新以仓库里的内容为准**
 
 
@@ -48,9 +47,24 @@ Go语言圣经 [《The Go Programming Language》](http://gopl.io) 中文版本�
 先安装NodeJS和GitBook命令行工具(`npm install gitbook-cli -g`命令)。
 
 1. 运行`go get github.com/golang-china/gopl-zh`，获取 [源文件](https://github.com/golang-china/gopl-zh/archive/master.zip)。
+
 2. 切换到 `gopl-zh` 目录，运行 `gitbook install`，安装GitBook插件。
+
 3. 运行`make`，生成`_book`目录。
+
 4. 打开`_book/index.html`文件。
+
+#### Windows 命令备忘
+
+查询监听 35729 端口的进程:
+
+git bash中: netstat -ano | grep 35729
+
+杀掉进程:
+
+cmd中: taskkill /pid 123
+
+git bash中: winpty taskkill //pid 123
 
 # 版权声明
 

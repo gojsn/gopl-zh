@@ -15,28 +15,12 @@ Go语言圣经 [《The Go Programming Language》](http://gopl.io) 中文版本�
 - 译者：CrazySssst
 - 译者：foreversmart <njutree@gmail.com>
 
-
-## 关注微信公众号光谷码农和 TechPaper
-
-<table>
-<tr>
-<td>
-<img width="222px"  src="https://github.com/chai2010/advanced-go-programming-book/raw/master/css.png">
-</td>
-<td>
-<img width="222px"  src="https://github.com/chai2010/advanced-go-programming-book/raw/master/cch.png">
-</td>
-</tr>
-</table>
-
 ## 在线预览
 
 - https://docs.hacknode.org/gopl-zh/
 - https://books.studygolang.com/gopl-zh/
 - https://wizardforcel.gitbooks.io/gopl-zh/
-- https://book.itsfun.top/gopl-zh/ #每夜自动构建
-
-{% include "./version.md" %}
+- https://book.itsfun.top/gopl-zh/
 
 -------
 
